@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		2WP5nyCFLnS5bBKE9BYogVi5ArY=
+		</data>
 		<key>Headers/PEPDownloadAgent.h</key>
 		<data>
 		CVJxrAn1OBr4sad4fS3mio9c/Cs=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rlmFO4HGNyg7L+KFOYJMuzzbtlY=
+		srmhKIRtQzVvx7RbxRNXipgncZo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
