@@ -1,0 +1,6 @@
+framework module PEPNetworking {
+  umbrella header "PEPNetworking.h"
+
+  export *
+  module * { export * }
+}
