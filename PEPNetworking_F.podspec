@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   
   s.static_framework = true
 
-  s.frameworks   = 'Foundation', 'UIKit'
+  s.frameworks   = 'Foundation', 'UIKit', 'CoreFoundation'
 
   s.dependency 'AFNetworking'
   
